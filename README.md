@@ -51,7 +51,7 @@ To perform simulation of e.g. bars, go to the folder of simulation and run scrip
 - `python3 run_simulations.py` (runs simulations of model, requires PCSIM, but we provide data so you can skip it)
 - `python3 analyse.py` (performs analysis of network)
 
-To visualize results run (if availalbe for particular simulation):
+To visualize results run (if available for particular simulation):
 - `ipython3 -i show_weights.py` (plots network weights after learning)
 - `ipython3 -i show_figure.py`
 
