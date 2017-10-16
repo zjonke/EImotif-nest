@@ -1,0 +1,10 @@
+/*
+ *  swtamodule-init.sli
+ */
+
+/*
+ * Initialization file for SWTAModul.
+ * Run automatically when SWTAModule is loaded.
+ */
+
+M_DEBUG (swtamodule.sli) (Initializing SLI support for SWTAModule.) message
